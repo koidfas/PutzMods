@@ -130,9 +130,6 @@
 
 # Server Mods
 
-[https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance116.md](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance116.md)
-
-
 # Client Mods
 * Advancement Plaques
 * AdvancementPlaques
