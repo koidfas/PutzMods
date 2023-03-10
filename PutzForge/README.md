@@ -129,6 +129,8 @@
 * YUNG'S
 
 # Server Mods
+* Chunky
+* Everlasting Skins
 
 # Client Mods
 * Advancement Plaques
